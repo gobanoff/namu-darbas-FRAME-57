@@ -1,0 +1,89 @@
+body{background:#f8f9fa ;margin: 0;
+    font-family:'Poppins', sans-serif ;}
+.card{height: 1042px;width: 1536px;
+ border: none;background: #ffffff;
+display: flex;justify-content: center;margin-left: 190px;
+margin-top: 100px;}
+
+.boxes{height: 1042px;width: 754px;}
+.frame{height: 638px;width: 404px;position: relative;
+    
+margin-top: 202px;margin-left: 175px;}
+.image{border-radius: 45px;}
+
+h1{font-family: 'Poppins', sans-serif;font-size:32px ;
+font-weight: 500;margin: 0;padding-bottom: 40px;}
+
+.input {width: 100%;height: 58px;
+    display: block;margin: 0;padding-top: 19px;}
+
+#name {width: 100%;border-radius: 10px;height: 30px;
+    padding: 0;border: 1px solid #d9d9d9;}
+#email {width: 100%;border-radius: 10px;height: 30px;
+    padding: 0;border: 1px solid #d9d9d9;}
+
+.input label {font-size: 14px;line-height: 21px;
+    font-family:'Poppins', sans-serif ;color: #000000;}
+
+::placeholder {font-size: 10px;color: #d9d9d9;
+font-family:'Poppins', sans-serif ;font-weight: 500;
+line-height: 15px;padding: 9px;}
+
+#agree {width: 9px;height: 9.85px;margin: 0;
+border: 2px solid #000000;}
+.check label{font-size: 9px;font-family: 'Poppins', sans-serif;
+font-weight: 600;color: #000000;line-height: 6;}
+.check {padding-top: 4px;}
+.check span{text-decoration: underline;}
+
+.grey {width: 100%;height: 36px;background: #edf2f7;
+margin-top: 10px;}
+.green{width: 100%;height: 34px;border-radius: 10px;
+    padding: 3px; margin: 0;
+background: #3a5b22;border: 1px solid #d9d9d9;}
+.green a {color: #ffffff;text-decoration: none;
+    font-weight: 600;
+font-family:'Poppins', sans-serif ;font-size: 13px;
+line-height: 19.5px;}
+.line {width: 193px;height: 2px;content: "";
+background-color: #f5f5f5;margin-top: 68px;}
+.lineL {display: flex;justify-content: space-between;}
+
+
+
+.frame .or {font-size: 9px;font-weight: 500;}
+.or {left: 82px;position: absolute;bottom: 141px;
+font-family:'Poppins', sans-serif ;margin: 0;}
+
+.butons{padding-top: 70px;display: flex;
+    justify-content: space-between;}
+
+.google {width: 190px;height: 32px;background: #ffffff;
+border-radius: 10px;border: 1px solid #d9d9d9;
+font-family:'Poppins', sans-serif ;font-size: 12px;
+display: flex;justify-content: center;gap: 10px;}
+
+.apple {width: 190px;height: 32px;background: #ffffff;
+    border-radius: 10px;border: 1px solid #d9d9d9;
+    font-family:'Poppins', sans-serif ;font-size: 12px;
+display: flex;justify-content: center;gap: 10px;}
+ .google span{padding-top: 5px;} 
+ .apple span{padding-top: 5px;} 
+
+ .google img{padding-top: 2px;} 
+ .apple img{padding-top: 2px;} 
+
+.blue a{font-size: 14px;font-family:'Poppins', sans-serif ;
+font-weight: 500;color: #0f3dde;text-decoration: none;
+padding-left: 3px;}
+
+.frame p{font-size: 14px;font-family:'Poppins', sans-serif ;
+font-weight: 500;color: #000000;padding-top: 10px;
+padding-left: 115px;}
+
+.google span a{text-decoration: none;color: #000000;} 
+ .apple span a{text-decoration: none;color: #000000;} 
+
+
+
+
